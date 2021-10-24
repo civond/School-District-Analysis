@@ -30,7 +30,8 @@ Replacing the scores of 9th graders (due to fears of academic dishonesty) had th
 After the scores of ninth graders at THS was replaced with NaN's, there were the following changes:
 <ol>
   <li>Average math scores for medium-spending schools saw a slight decrease.</li>
-  <li>Average reading scores for medium-spending schools saw a slight increase..</li>
+  <li>Average reading scores for medium-spending schools saw a slight increase.</li>
+  <li>Percentages of passing math and reading decreased slightly across the district.</li>
   <li>The percentage of students who passed both reading and math at THS dropped by a third of a percent.</li>
   <li>The percentage of students who passed both reading math in the district as a whole also saw a slight decrease.</li>
 </ol>
