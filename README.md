@@ -4,7 +4,7 @@
 <h2>Results</h2>
 Replacing the scores of 9th graders (due to fears of academic dishonesty) had the following effects (THS is a medium-sized, medium-budget school):
   <ul>
-    <li>District summary was slightly shifted downwards (see images below for numbers).</li>
+    <li>In the district summary, the percentage of students that passed both math and reading dropped from 65.17% -> 64.86% (see images below for additional numbers).</li> 
       <br/>Original: <img src = Resources/District_Original.PNG>
       <br/>Adjusted: <img src = Resources/District_Update.PNG><br/>
     <li>The overall passing percentage in both math and reading subjects for THS dropped slightly from 90.94% -> 90.63%.</li>
@@ -31,8 +31,7 @@ After the scores of ninth graders at THS was replaced with NaN's, there were the
 <ol>
   <li>Average math scores for medium-spending schools saw a slight decrease.</li>
   <li>Average reading scores for medium-spending schools saw a slight increase.</li>
-  <li>Percentages of passing math and reading decreased slightly across the district.</li>
-  <li>The percentage of students who passed both reading and math at THS dropped by a third of a percent.</li>
-  <li>The percentage of students who passed both reading math in the district as a whole also saw a slight decrease.</li>
+  <li>The percentage of students that passed both reading and math in the district dropped by .31%.</li>
+  <li>The percentage of students who passed both reading and math at THS dropped by .31%.</li>
 </ol>
 
